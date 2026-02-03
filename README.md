@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João Felipe and I'm a from FrontEnd Developer</p>
+<p align="left">My name is João Felipe and I'm a from Software Engineer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Front-End Developer in training, with hands-on experience in development and a solid foundation in web technologies. Passionate about technology and continuous learning.<br><br>In addition to my personal studies, I’m currently pursuing a degree in Computer Science, where we develop team-based applications and presentations. Open to global opportunities where I can contribute and grow.</p>
+<p align="left">Software Engineer in training, with hands-on experience in development and a solid foundation in web technologies. Passionate about technology and continuous learning.<br><br>In addition to my personal studies, I’m currently pursuing a degree in Computer Science, where we develop team-based applications and presentations. Open to global opportunities where I can contribute and grow.</p>
 
 ###
 
